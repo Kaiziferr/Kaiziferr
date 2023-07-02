@@ -3,10 +3,12 @@
 
 - Data Science and Machine Learning:
 
-  - <a href="https://www.python.org/"> <img align="center" alt="python" width="20 px" src="https://www.python.org/static/img/python-logo.png"/>
+<a href="https://www.python.org/"> <img align="left" alt="python" width="100px" src="https://www.python.org/static/img/python-logo.png"/>
+<a href="https://scikit-learn.org/stable/"> <img align="left" alt="scikit_learn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png"/>
+<a href="https://keras.io/"> <img align="left " alt="keras" width="100px" src="https://keras.io/img/logo.png"/>
+<a href="https://keras.io/"> <img align="left " alt="keras" width="100px" src="https://keras.io/img/logo.png"/>
 
 
-<img align="left" alt="scikit_learn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png" />
 
 <img align="left" alt="keras" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/250px-Keras_logo.svg.png" />
 <img align="left" alt="pandas" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1920px-Pandas_logo.svg.png" />
