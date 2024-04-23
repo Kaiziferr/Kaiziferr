@@ -1,5 +1,9 @@
-### H1 I'm Steven Bernal  ::robot:
+### H1 I'm Steven Bernal  🤖
 
+
+- I'm currently working at **Stradata**
+
+# My Current Stack
 
 - Data Science and Machine Learning:
 
@@ -32,4 +36,16 @@
 <a href="https://fastapi.tiangolo.com/"> <img align="left" alt="fastapi" width="100 px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"/>
 <a href="https://www.djangoproject.com/"> <img align="left" alt="django" width="30 px" src="https://github.com/azblu/icons/blob/main/django.png"/>
 <a href="https://www.docker.com/"> <img align="left" alt="docker" width="30 px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"/>
+
+<br>
+***
+<p align="center">
+  
+### Connect With Me 💬
+<ul>
+  <a href='https://www.linkedin.com/in/steven-bernal-tovar/'>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</ul>
+
+
 
