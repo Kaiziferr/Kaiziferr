@@ -3,9 +3,8 @@
 
 - I'm currently working at **Stradata**
 
-- 
-
 # My Current Stack
+<p>
 
 - Data Science and Machine Learning:
 
@@ -17,32 +16,36 @@
 <a href="https://networkx.org/"> <img align="left" alt="NetworkX" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg" />
 <a href="https://www.knime.com/"> <img align="left" alt="knime" width="100px" src="https://www.knime.com/images/knime-logo.svg"/>
 <br>
-
 <br>
-
+</p>
+<p>
+  
 - Dataviz:
 
 <a href="https://powerbi.microsoft.com/en-us/"> <img align="left" alt="Power Bi" width="20px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"/>
-<a href="https://seaborn.pydata.org/"> <img align="left" alt="seaborn" width="95px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"/>
-<a href="https://matplotlib.org/stable/index.html"> <img align="left" alt="matplotlib" width="100px" src="https://matplotlib.org/stable/_static/images/logo2.svg"/>
+<a href="https://seaborn.pydata.org/"> <img align="left" alt="seaborn" width="120px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"/>
+<a href="https://matplotlib.org/stable/index.html"> <img align="left" alt="matplotlib" width="150px" src="https://matplotlib.org/stable/_static/logo_dark.svg"/>
 <a href="https://d3js.org/"> <img align="left" alt="d3js" width="30px" src="https://d3js.org/logo.svg"/>
 <br>
 <br>
-
+</p>
+<p>
 
 - Business Intelligence
 
 <a href="https://powerbi.microsoft.com/en-us/"> <img align="left" alt="Power Bi" width="20px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"/>
 <br>
 <br>
+</p>
 
 - Software Engineering:
   
-<a href="https://fastapi.tiangolo.com/"> <img align="left" alt="fastapi" width="100 px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"/>
-<a href="https://www.djangoproject.com/"> <img align="left" alt="django" width="30 px" src="https://github.com/azblu/icons/blob/main/django.png"/>
+<a href="https://fastapi.tiangolo.com/"> <img align="left" alt="fastapi" width="100px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"/>
+<a href="https://www.djangoproject.com/"> <img align="left" alt="django" width="30px" src="https://es.wikipedia.org/wiki/Django_(framework)#/media/Archivo:Django_logo.svg"/>
 <a href="https://www.docker.com/"> <img align="left" alt="docker" width="30 px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"/>
-
 <br>
+<br>
+
 ***
 <p align="center">
   
