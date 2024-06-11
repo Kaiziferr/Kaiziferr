@@ -12,6 +12,7 @@
 <a href="https://scikit-learn.org/stable/"> <img align="left" alt="scikit_learn" width="50 px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png" />
 <a href="https://keras.io/"> <img align="left" alt="keras" width="100px" src="https://keras.io/img/logo.png" />
 <a href="https://www.tensorflow.org/?hl=es-419"> <img align="left" alt="Tensor" width="150px" src="https://www.gstatic.com/devrel-devsite/prod/v2a398f8757b82183cb182aec0e7c4771ac1123a40d36fc97c8783f6df9b3c672/tensorflow/images/lockup.svg" />
+<a href="https://xgboost.readthedocs.io/en/stable/#"> <img align="left" alt="XGBoost" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" />
 <a href="https://www.tensorflow.org/?hl=es-419"> <img align="left" alt="Catboost" width="100px" src="https://yastatic.net/s3/locdoc/daas-static/catboost/71b237a322eec6f2889af0dae2a9c549.svg" />
 <a href="https://networkx.org/"> <img align="left" alt="NetworkX" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg" />
 <a href="https://www.knime.com/"> <img align="left" alt="knime" width="100px" src="https://www.knime.com/images/knime-logo.svg"/>
