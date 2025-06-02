@@ -26,7 +26,6 @@
 <a href="https://powerbi.microsoft.com/en-us/"> <img align="left" alt="Power Bi" width="20px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"/>
 <a href="https://seaborn.pydata.org/"> <img align="left" alt="seaborn" width="120px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"/>
 <a href="https://matplotlib.org/stable/index.html"> <img align="left" alt="matplotlib" width="150px" src="https://matplotlib.org/stable/_static/logo_dark.svg"/>
-<a href="https://d3js.org/"> <img align="left" alt="d3js" width="30px" src="https://d3js.org/logo.svg"/>
 <br>
 <br>
 </p>
